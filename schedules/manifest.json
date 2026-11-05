@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "package_name": "ir.metroyar.metroyar",
+  "revision": 1,
+  "minimum_app_version_code": 9,
+  "network_sha256": "67f19dc84891395b0f29c84e0b0a992c25e461b8a21903a267ad0f78c84ac21a",
+  "data_version": "operator-published-2026-11-04",
+  "published_at": "2026-11-05T00:00:00Z",
+  "published_date_gregorian": "2026-11-05",
+  "published_date_jalali": "1405-08-14",
+  "notes": "بستهٔ پایهٔ ساعات حرکت مترویاب؛ شامل برنامهٔ عادی، جدول ایستگاه‌ها و تندرو خط ۵.",
+  "encoding": "gzip",
+  "bytes": 35381,
+  "sha256": "0dca3a52665e45e975794d4af1667ae6b49503d9f08fed4d0d0ab2c144f43f96",
+  "content_bytes": 487094,
+  "content_sha256": "7c93b7d205b64dc71445e2878bdb91311cd0d493f5dd4d094a478a4777dcb694",
+  "bundle_url": "https://raw.githubusercontent.com/saeidtf/metroyar-config/e4f199f14484c99404bdf6156109c21b956741a6/schedules/releases/schedules-0001.mty",
+  "signature_algorithm": "ECDSA_P256_SHA256",
+  "key_id": "schedules-2026-01",
+  "signature": "MEUCIQDw2UqaQXQpSenEjyKhCSuHsZQUja8uOLAI13aS7yjztQIgCXod/aNxTfq5OxqaAIJZVUKXU3/UwUuobGk76j0KtDk="
+}
