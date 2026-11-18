@@ -1,0 +1,323 @@
+{
+ "schema_version": 1,
+ "revision": 1,
+ "data_version": "official-1405-1406-r1",
+ "published_at": "2026-11-18T08:55:49Z",
+ "coverage_from": "2026-03-21",
+ "coverage_to": "2028-03-19",
+ "source": "persian-calendar.com/api/holidays, checked against the official calendar (شورای فرهنگ عمومی) before release",
+ "days": [
+  {
+   "date": "2026-03-21",
+   "service_day": "friday_holiday",
+   "title": "نوروز - جشن آغاز سال نو · عید سعید فطر",
+   "estimated": false
+  },
+  {
+   "date": "2026-03-22",
+   "service_day": "friday_holiday",
+   "title": "عید نوروز - روز دوم · تعطیل عید سعید فطر",
+   "estimated": false
+  },
+  {
+   "date": "2026-03-23",
+   "service_day": "friday_holiday",
+   "title": "عید نوروز - روز سوم",
+   "estimated": false
+  },
+  {
+   "date": "2026-03-24",
+   "service_day": "friday_holiday",
+   "title": "عید نوروز - روز چهارم",
+   "estimated": false
+  },
+  {
+   "date": "2026-04-01",
+   "service_day": "friday_holiday",
+   "title": "روز جمهوری اسلامی ایران",
+   "estimated": false
+  },
+  {
+   "date": "2026-04-02",
+   "service_day": "friday_holiday",
+   "title": "روز طبیعت (سیزده‌بدر)",
+   "estimated": false
+  },
+  {
+   "date": "2026-05-27",
+   "service_day": "friday_holiday",
+   "title": "عید سعید قربان",
+   "estimated": false
+  },
+  {
+   "date": "2026-06-04",
+   "service_day": "friday_holiday",
+   "title": "رحلت امام خمینی (ره) · عید سعید غدیر خم",
+   "estimated": false
+  },
+  {
+   "date": "2026-06-05",
+   "service_day": "friday_holiday",
+   "title": "قیام خونین ۱۵ خرداد",
+   "estimated": false
+  },
+  {
+   "date": "2026-06-24",
+   "service_day": "friday_holiday",
+   "title": "تاسوعای حسینی",
+   "estimated": false
+  },
+  {
+   "date": "2026-06-25",
+   "service_day": "friday_holiday",
+   "title": "عاشورای حسینی",
+   "estimated": false
+  },
+  {
+   "date": "2026-08-04",
+   "service_day": "friday_holiday",
+   "title": "اربعین حسینی",
+   "estimated": false
+  },
+  {
+   "date": "2026-08-12",
+   "service_day": "friday_holiday",
+   "title": "رحلت حضرت رسول اکرم (ص) و شهادت امام حسن مجتبی (ع)",
+   "estimated": false
+  },
+  {
+   "date": "2026-08-13",
+   "service_day": "friday_holiday",
+   "title": "شهادت امام رضا (ع)",
+   "estimated": false
+  },
+  {
+   "date": "2026-08-21",
+   "service_day": "friday_holiday",
+   "title": "شهادت امام حسن عسکری (ع) و آغاز امامت حضرت ولیعصر (عج)",
+   "estimated": false
+  },
+  {
+   "date": "2026-08-30",
+   "service_day": "friday_holiday",
+   "title": "ولادت حضرت رسول اکرم (ص) و ولادت امام جعفر صادق (ع)",
+   "estimated": false
+  },
+  {
+   "date": "2026-11-13",
+   "service_day": "friday_holiday",
+   "title": "شهادت حضرت فاطمه زهرا (س)",
+   "estimated": false
+  },
+  {
+   "date": "2026-12-23",
+   "service_day": "friday_holiday",
+   "title": "ولادت امام علی (ع) - روز پدر",
+   "estimated": false
+  },
+  {
+   "date": "2027-01-06",
+   "service_day": "friday_holiday",
+   "title": "مبعث حضرت رسول اکرم (ص)",
+   "estimated": false
+  },
+  {
+   "date": "2027-01-24",
+   "service_day": "friday_holiday",
+   "title": "ولادت حضرت قائم (عج) - نیمه شعبان",
+   "estimated": false
+  },
+  {
+   "date": "2027-02-11",
+   "service_day": "friday_holiday",
+   "title": "پیروزی انقلاب اسلامی ایران (۲۲ بهمن)",
+   "estimated": false
+  },
+  {
+   "date": "2027-02-28",
+   "service_day": "friday_holiday",
+   "title": "شهادت حضرت علی (ع)",
+   "estimated": false
+  },
+  {
+   "date": "2027-03-10",
+   "service_day": "friday_holiday",
+   "title": "عید سعید فطر",
+   "estimated": true
+  },
+  {
+   "date": "2027-03-11",
+   "service_day": "friday_holiday",
+   "title": "تعطیل عید سعید فطر",
+   "estimated": true
+  },
+  {
+   "date": "2027-03-20",
+   "service_day": "friday_holiday",
+   "title": "روز ملی شدن صنعت نفت ایران",
+   "estimated": false
+  },
+  {
+   "date": "2027-03-21",
+   "service_day": "friday_holiday",
+   "title": "نوروز - جشن آغاز سال نو",
+   "estimated": false
+  },
+  {
+   "date": "2027-03-22",
+   "service_day": "friday_holiday",
+   "title": "عید نوروز - روز دوم",
+   "estimated": false
+  },
+  {
+   "date": "2027-03-23",
+   "service_day": "friday_holiday",
+   "title": "عید نوروز - روز سوم",
+   "estimated": false
+  },
+  {
+   "date": "2027-03-24",
+   "service_day": "friday_holiday",
+   "title": "عید نوروز - روز چهارم",
+   "estimated": false
+  },
+  {
+   "date": "2027-04-01",
+   "service_day": "friday_holiday",
+   "title": "روز جمهوری اسلامی ایران",
+   "estimated": false
+  },
+  {
+   "date": "2027-04-02",
+   "service_day": "friday_holiday",
+   "title": "روز طبیعت (سیزده‌بدر)",
+   "estimated": false
+  },
+  {
+   "date": "2027-04-03",
+   "service_day": "friday_holiday",
+   "title": "شهادت امام جعفر صادق (ع)",
+   "estimated": true
+  },
+  {
+   "date": "2027-05-17",
+   "service_day": "friday_holiday",
+   "title": "عید سعید قربان",
+   "estimated": true
+  },
+  {
+   "date": "2027-05-25",
+   "service_day": "friday_holiday",
+   "title": "عید سعید غدیر خم",
+   "estimated": true
+  },
+  {
+   "date": "2027-06-04",
+   "service_day": "friday_holiday",
+   "title": "رحلت امام خمینی (ره)",
+   "estimated": false
+  },
+  {
+   "date": "2027-06-05",
+   "service_day": "friday_holiday",
+   "title": "قیام خونین ۱۵ خرداد",
+   "estimated": false
+  },
+  {
+   "date": "2027-06-14",
+   "service_day": "friday_holiday",
+   "title": "تاسوعای حسینی",
+   "estimated": true
+  },
+  {
+   "date": "2027-06-15",
+   "service_day": "friday_holiday",
+   "title": "عاشورای حسینی",
+   "estimated": true
+  },
+  {
+   "date": "2027-07-25",
+   "service_day": "friday_holiday",
+   "title": "اربعین حسینی",
+   "estimated": true
+  },
+  {
+   "date": "2027-08-02",
+   "service_day": "friday_holiday",
+   "title": "رحلت حضرت رسول اکرم (ص) و شهادت امام حسن مجتبی (ع)",
+   "estimated": true
+  },
+  {
+   "date": "2027-08-03",
+   "service_day": "friday_holiday",
+   "title": "شهادت امام رضا (ع)",
+   "estimated": true
+  },
+  {
+   "date": "2027-08-11",
+   "service_day": "friday_holiday",
+   "title": "شهادت امام حسن عسکری (ع) و آغاز امامت حضرت ولیعصر (عج)",
+   "estimated": true
+  },
+  {
+   "date": "2027-08-20",
+   "service_day": "friday_holiday",
+   "title": "ولادت حضرت رسول اکرم (ص) و ولادت امام جعفر صادق (ع)",
+   "estimated": true
+  },
+  {
+   "date": "2027-11-02",
+   "service_day": "friday_holiday",
+   "title": "شهادت حضرت فاطمه زهرا (س)",
+   "estimated": true
+  },
+  {
+   "date": "2027-12-12",
+   "service_day": "friday_holiday",
+   "title": "ولادت امام علی (ع) - روز پدر",
+   "estimated": true
+  },
+  {
+   "date": "2027-12-26",
+   "service_day": "friday_holiday",
+   "title": "مبعث حضرت رسول اکرم (ص)",
+   "estimated": true
+  },
+  {
+   "date": "2028-01-13",
+   "service_day": "friday_holiday",
+   "title": "ولادت حضرت قائم (عج) - نیمه شعبان",
+   "estimated": true
+  },
+  {
+   "date": "2028-02-11",
+   "service_day": "friday_holiday",
+   "title": "پیروزی انقلاب اسلامی ایران (۲۲ بهمن)",
+   "estimated": false
+  },
+  {
+   "date": "2028-02-17",
+   "service_day": "friday_holiday",
+   "title": "شهادت حضرت علی (ع)",
+   "estimated": true
+  },
+  {
+   "date": "2028-02-27",
+   "service_day": "friday_holiday",
+   "title": "عید سعید فطر",
+   "estimated": true
+  },
+  {
+   "date": "2028-02-28",
+   "service_day": "friday_holiday",
+   "title": "تعطیل عید سعید فطر",
+   "estimated": true
+  },
+  {
+   "date": "2028-03-19",
+   "service_day": "friday_holiday",
+   "title": "روز ملی شدن صنعت نفت ایران",
+   "estimated": false
+  }
+ ]
+}
