@@ -1,0 +1,16 @@
+{
+  "schema_version": 1,
+  "package_name": "ir.metroyar.metroyar",
+  "revision": 1,
+  "data_version": "official-1405-1406-r1",
+  "published_at": "2026-11-18T08:55:49Z",
+  "coverage_from": "2026-03-21",
+  "coverage_to": "2028-03-19",
+  "notes": "تقویم تعطیلات رسمی ۱۴۰۵ (مطابق تقویم رسمی) و ۱۴۰۶ (مناسبت‌های قمری تخمینی).",
+  "bytes": 8259,
+  "sha256": "daf8af6d0d75b120d362dcf12df547add768f6ed419ca775c4f46214e1dedb86",
+  "calendar_url": "https://raw.githubusercontent.com/saeidtf/metroyar-config/124d06794da18a0a65ab0c3f05674386f4b2bbf5/calendar/releases/calendar-0001.json",
+  "signature_algorithm": "ECDSA_P256_SHA256",
+  "key_id": "schedules-2026-01",
+  "signature": "MEYCIQC3gFEovUlKkLhzJd2qDzGmW0qgTNFCw2drhiKznZ+/ZgIhAIj7wEV2mTvao1Ci/CAyDVqUzeouD4Sgb0tXcoGc69co"
+}
